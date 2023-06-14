@@ -13,7 +13,7 @@
 
 - 💬 I program better in **JavaScript**
 
-- 📫 How to reach me **foralaska@gmail.com**
+- 📫 You can also write me on **foralaska@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
