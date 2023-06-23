@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is ForAlaska</h1>
+<h1 align="center">Hi! My name is Alaska</h1>
 <h3 align="center">A mess of codes that comes from Italy!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foralaska&label=Profile%20views&color=0e75b6&style=flat" alt="foralaska" /> </p>
